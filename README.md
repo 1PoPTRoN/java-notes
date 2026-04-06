@@ -5,7 +5,7 @@ Clean. Structured. No fluff.
 ## 📂 Contents
 | File | What's Inside |
 |------|--------------|
-| [Java Notes](./java-notes.md) | Installation, setup, syntax & core concepts |
+| [Java Notes](./overview.md) | Installation, setup, syntax & core concepts |
 
 ## 🎯 Purpose
 This repo is my personal Java cheat sheet.
